@@ -5,4 +5,5 @@ export default defineConfig({
   themeConfig: {
     name: 'react-bgify',
   },
+  headScripts: [`https://unpkg.com/@tailwindcss/browser@4`],
 });
